@@ -1,0 +1,19 @@
+{
+  "name": "api-pila",
+  "version": "1.0.0",
+  "description": "Ejercicio de pila y max num",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pila",
+    "pila"
+  ],
+  "author": "Santa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
