@@ -11,6 +11,6 @@ app.use(express.urlencoded({ extended: true }));
 app.use(injectStack);
 
 // Routes
-app.use("/api/pila", require("./routes"));
+app.use("/api/stack", require("./routes"));
 
 module.exports = app;
