@@ -23,9 +23,7 @@ class Stack {
     } else {
       // check if the added number is greater than the last maxNumber
       const max = this.getLastMaxNumber();
-      console.log({ max, num });
       if (num >= max) {
-        console.log("1");
         this.maxHistory.push(num);
       }
     }
