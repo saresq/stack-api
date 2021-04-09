@@ -22,7 +22,7 @@ Get max number of the stack localhost:4000/api/getmax
 ##### Possible improvements:
 
 - Make api REST and change the endpoints to GET - POST - DELETE
-- Add a validator to check if data is number or not
+- Add a validator to check if data is number or not✅
 - Make a frontend to control all app
 - Make a swagger to list all API Endpoints
 
