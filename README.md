@@ -1,7 +1,5 @@
 ## Stack API - Santa AQ
 
-### Game Scoreboard
-
 #### Running the project
 
 To run the project, clone the repo and enter the root folder.
@@ -25,5 +23,5 @@ Get max number of the stack localhost:4000/api/getmax
 - Add a validator to check if data is number or not - Added on last commit ✅
 - Make a frontend to control all app
 - Make a swagger to list all API Endpoints
-
+- Persist data on a database for subsequent runnings
 #### Made with ♥ by Santa AQ
