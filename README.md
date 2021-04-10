@@ -8,12 +8,12 @@ Once inside, exec
 
     npm install && node index.js
 
-#### API Endpoints
+#### API Endpoints - All GET methods
 
-Get actual stack localhost:4000/api/stack/
-Push new number localhost:4000/api/stack/push/:number
-Pop last number localhost:4000/api/stack/pop
-Get max number of the stack localhost:4000/api/getmax
+Get actual stack localhost:4000/api/stack/ .
+Push new number localhost:4000/api/stack/push/:number .
+Pop last number localhost:4000/api/stack/pop .
+Get max number of the stack localhost:4000/api/getmax .
 
 ---
 
