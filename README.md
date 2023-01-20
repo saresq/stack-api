@@ -1,4 +1,4 @@
-## Stack API - Santa AQ
+## Stack API - Santi AQ
 
 #### Running the project
 
@@ -24,4 +24,4 @@ Once inside, exec
 - Make a frontend to control all app
 - Make a swagger to list all API Endpoints
 - Persist data on a database for subsequent runnings
-#### Made with ♥ by Santa AQ
+#### Made with ♥ by Santi AQ
